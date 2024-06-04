@@ -4,27 +4,52 @@
 \usepackage{lmodern}  % for better quality fonts
 \usepackage{amsmath,amssymb}
 \usepackage{fontawesome}
+\usepackage{lipsum}
+\usepackage{hyperref}
 \usepackage[paperwidth=612pt, paperheight=792pt, margin=0.5in]{geometry}
-
+\usepackage{multirow}
+\usepackage{array} % For extended tabular features
+\usepackage{graphicx} % For better vertical alignment
+\usepackage{xcolor}
 \usepackage{titlesec}
+\usepackage{tikz}
 \titleformat{\section}
   {\large\scshape\centering}
   {}{0em}{}
 \titlespacing*{\section}
   {0pt}{1em}{1em}
 
+\definecolor{navy}{rgb}{0.164706,0.223529,0.564706}
+
+
 \begin{document}
 
 \begin{center}
-    \huge\scshape Leo Sharif \\
-    \vspace{0.5em}
-    \normalsize Mathematics + Finance \\
-    \vspace{0.5em}
-    \faEnvelope \hspace{0.1em} me@leosharif.com \quad
-    \faPhone \hspace{0.1em} +61 420-677-719 \quad
-    \faLinkedin \hspace{0.1em} Leo Sharif \quad
-    \faGithub \hspace{0.1em} Leo Sharif \quad
-    \faGlobe \hspace{0.1em} leosharif.com
+  \begin{tikzpicture}
+    \draw[thick, navy] (0,0) -- (\linewidth,0);
+    \draw[thick, navy] (0,-0.15) -- (\linewidth,-0.15);
+  \end{tikzpicture}
+
+  \vspace{0.4em}
+
+  \begin{tabular}{>{\raggedright\arraybackslash}p{0.3\textwidth} c >{\raggedleft\arraybackslash}p{0.3\textwidth}}
+    \faEnvelope \hspace{0.1em} \href{mailto:me@leosharif.com}{me@leosharif.com} & \multirow{2}{*}{\huge\scshape Leo Sharif} & \faGithub \hspace{0.1em} \href{https://github.com/Realaiz}{Leo Sharif} \\
+    \faPhone \hspace{0.1em} +61 420-677-719 & & \faLinkedin \hspace{0.1em} \href{https://www.linkedin.com/in/leo-sharif-1a6866193/}{Leo Sharif} \\
+    & \normalsize Mathematics + Finance & \faGlobe \hspace{0.1em} \href{https://leosharif.com}{leosharif.com} \\
+  \end{tabular}
+
+  \vspace{0.4em}
+
+  \begin{tikzpicture}
+    \draw[thick, navy] (0,0) -- (\linewidth,0);
+    \draw[thick, navy] (0,-0.15) -- (\linewidth,-0.15);
+  \end{tikzpicture}
+
 \end{center}
 
+
+
 \end{document}
+
+
+
