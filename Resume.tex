@@ -11,22 +11,28 @@
 \usepackage{array} % For extended tabular features
 \usepackage{graphicx} % For better vertical alignment
 \usepackage{xcolor}
-\usepackage{titlesec}
+\usepackage[explicit]{titlesec}
 \usepackage{tikz}
 \usepackage{enumitem}
 
-
+%custom color definitions
 \definecolor{navy}{HTML}{1c398d}
 \definecolor{softblack}{HTML}{333333}
 \definecolor{subtextgray}{HTML}{768699}
 \definecolor{LinkedinBlue}{HTML}{0a66c2}
 
+%tabular column aligners & settings
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
-
 \setlength{\tabcolsep}{1.6em}
 
+%label item settings -> small dot & pos
 \renewcommand{\labelitemi}{\raisebox{0.1em}{$\cdot$}}
+
+%title settings
+\titlespacing{\section}{0em}{-1em}{0.1em}
+\newcommand{\raisedrulefill}[2][0ex]{\leaders\hbox{\rule[#1]{1pt}{#2}}\hfill}
+\titleformat{\section}{\normalfont\scshape\large\color{softblack}}{}{0pt}{\textcolor{softblack}{#1\,\raisedrulefill[0.25em]{0.2pt}}} 
 
 \begin{document}
 
@@ -54,17 +60,18 @@
 
 
 % Education Section
-\section*{Education}
-\textbf{Bond University} \hfill {Gold Coast, QLD}\\
-\textit{\color{subtextgray}B. Actuarial Science, Major in Finance} \hfill \textit{\color{subtextgray}Feb 2022 - May 2024}
-\begin{itemize}[noitemsep, topsep=0em, left=-0.8em]
-  \item 75\% Major WAM, Investment Group, Actuarial Society, Tennis Club, Actuaries Institute of Australia Foundation Principles: CS1, CS2, CM1, CM2, CB1, CB2
-  \item Coursework: Mathematical Statistics, Stochastic Processes, Econometrics, Financial Mathematics, Portfolio Analysis, Survival Analysis, Risk Management, Financial Models, Game Theory, Survival Analysis
+\section{education}
+\textbf{Bond University} \hfill {Gold Coast, QLD} \\
+\indent \textit{\color{subtextgray}B. Actuarial Science, Major in Finance} \hfill \textit{\color{subtextgray}Feb 2022 - May 2024}
+\begin{itemize}[noitemsep, topsep=0em, left=0.8em]
+  \item 75\% Major WAM, Investment Group, Actuarial Society, Actuaries Institute Completion: CS, CM, CB
+  \item Coursework: Mathematical Statistics, Stochastic Processes, Econometrics, Finance Mathematics, Portfolio Analysis, Survival Analysis, Risk Management, Financial Models, Game Theory, Survival Analysis
 \end{itemize}
+
 \textbf{Academy of Interactive Technology} \\
-\textit{\color{subtextgray}Diploma of Full Stack Development}
-\begin{itemize}[topsep=0em, left=-0.8em]	
-\item 78\% WAM, Developed a password manager and a real estate portfolio management tool, showcasing strong problem-solving skills and industry-standard security practices.
+\indent \textit{\color{subtextgray}Diploma of Full Stack Development}
+\begin{itemize}[topsep=0em, left=0.8em]	
+  \item 78\% WAM, Developed a password manager and a real estate portfolio management tool, showcasing strong problem-solving skills and industry-standard security practices.
 \end{itemize}
 
 \end{document}
