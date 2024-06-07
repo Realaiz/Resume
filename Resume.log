@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.4)  7 JUN 2024 11:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.4)  7 JUN 2024 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -553,31 +553,31 @@ Package: transparent 2022-10-27 v1.5 Transparency with color stacks
 (/usr/local/texlive/2024/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
 Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
 ))
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 38.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 40.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./Resume.aux)
 \openout1 = `Resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-Package hyperref Info: Link coloring OFF on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+Package hyperref Info: Link coloring OFF on input line 40.
  (./Resume.out) (./Resume.out)
 \@outlinefile=\write4
 \openout4 = `Resume.out'.
@@ -636,154 +636,154 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Overfull \hbox (0.4pt too wide) in paragraph at lines 44--45
+Overfull \hbox (0.4pt too wide) in paragraph at lines 46--47
  [] 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 48.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 50.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 48.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 50.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 48.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 50.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 48.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 50.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 48.
+(Font)              <12> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 48.
+(Font)              <8> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 48.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+(Font)              <6> on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 49.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 51.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Overfull \vbox (1.00003pt too high) detected at line 49
+Overfull \vbox (1.00003pt too high) detected at line 51
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 59--60
+Overfull \hbox (0.4pt too wide) in paragraph at lines 61--62
  [][] 
  []
 
 
-Overfull \hbox (6.83641pt too wide) in paragraph at lines 123--123
+Overfull \hbox (6.83641pt too wide) in paragraph at lines 125--125
 []|\T1/lmr/bx/n/12 Languages|  
  []
 
 <icons/python-icon.pdf, id=31, 48.18pt x 48.18pt>
 File: icons/python-icon.pdf Graphic file (type pdf)
 <use icons/python-icon.pdf>
-Package pdftex.def Info: icons/python-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/python-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/r-icon.pdf, id=32, 385.44pt x 385.44pt>
 File: icons/r-icon.pdf Graphic file (type pdf)
 <use icons/r-icon.pdf>
-Package pdftex.def Info: icons/r-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/r-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.74501pt x 11.74983pt.
 <icons/cpp-icon.pdf, id=33, 304.13625pt x 298.20035pt>
 File: icons/cpp-icon.pdf Graphic file (type pdf)
 <use icons/cpp-icon.pdf>
-Package pdftex.def Info: icons/cpp-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/cpp-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.98238pt x 11.74983pt.
 <icons/w3_html5-icon.pdf, id=34, 48.18pt x 48.18pt>
 File: icons/w3_html5-icon.pdf Graphic file (type pdf)
 <use icons/w3_html5-icon.pdf>
-Package pdftex.def Info: icons/w3_html5-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/w3_html5-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/w3_css-icon.pdf, id=35, 48.18pt x 48.18pt>
 File: icons/w3_css-icon.pdf Graphic file (type pdf)
 <use icons/w3_css-icon.pdf>
-Package pdftex.def Info: icons/w3_css-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/w3_css-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/js-icon.pdf, id=36, 385.44pt x 385.44pt>
 File: icons/js-icon.pdf Graphic file (type pdf)
 <use icons/js-icon.pdf>
-Package pdftex.def Info: icons/js-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/js-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.74501pt x 11.74983pt.
 <icons/typescriptlang-icon.pdf, id=37, 48.18pt x 48.18pt>
 File: icons/typescriptlang-icon.pdf Graphic file (type pdf)
 <use icons/typescriptlang-icon.pdf>
-Package pdftex.def Info: icons/typescriptlang-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/typescriptlang-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/amazon_aws-icon.pdf, id=38, 48.18pt x 48.18pt>
 File: icons/amazon_aws-icon.pdf Graphic file (type pdf)
 <use icons/amazon_aws-icon.pdf>
-Package pdftex.def Info: icons/amazon_aws-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/amazon_aws-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/ruby-lang-icon.pdf, id=39, 48.18pt x 48.18pt>
 File: icons/ruby-lang-icon.pdf Graphic file (type pdf)
 <use icons/ruby-lang-icon.pdf>
-Package pdftex.def Info: icons/ruby-lang-icon.pdf  used on input line 123.
+Package pdftex.def Info: icons/ruby-lang-icon.pdf  used on input line 125.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/Pandas.pdf, id=40, 96.36pt x 96.36pt>
 File: icons/Pandas.pdf Graphic file (type pdf)
 <use icons/Pandas.pdf>
-Package pdftex.def Info: icons/Pandas.pdf  used on input line 124.
+Package pdftex.def Info: icons/Pandas.pdf  used on input line 126.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/scikit-learn.pdf, id=41, 96.36pt x 96.36pt>
 File: icons/scikit-learn.pdf Graphic file (type pdf)
 <use icons/scikit-learn.pdf>
-Package pdftex.def Info: icons/scikit-learn.pdf  used on input line 124.
+Package pdftex.def Info: icons/scikit-learn.pdf  used on input line 126.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/Ploty.pdf, id=42, 96.36pt x 96.36pt>
 File: icons/Ploty.pdf Graphic file (type pdf)
 <use icons/Ploty.pdf>
-Package pdftex.def Info: icons/Ploty.pdf  used on input line 124.
+Package pdftex.def Info: icons/Ploty.pdf  used on input line 126.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/seaborn-icon.pdf, id=43, 192.72pt x 192.72pt>
 File: icons/seaborn-icon.pdf Graphic file (type pdf)
 <use icons/seaborn-icon.pdf>
-Package pdftex.def Info: icons/seaborn-icon.pdf  used on input line 124.
+Package pdftex.def Info: icons/seaborn-icon.pdf  used on input line 126.
 (pdftex.def)             Requested size: 11.74796pt x 11.74983pt.
 <icons/pytorch-icon.pdf, id=44, 48.18pt x 48.18pt>
 File: icons/pytorch-icon.pdf Graphic file (type pdf)
 <use icons/pytorch-icon.pdf>
-Package pdftex.def Info: icons/pytorch-icon.pdf  used on input line 124.
+Package pdftex.def Info: icons/pytorch-icon.pdf  used on input line 126.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/node-icon.pdf, id=45, 385.44pt x 385.44pt>
 File: icons/node-icon.pdf Graphic file (type pdf)
 <use icons/node-icon.pdf>
-Package pdftex.def Info: icons/node-icon.pdf  used on input line 124.
+Package pdftex.def Info: icons/node-icon.pdf  used on input line 126.
 (pdftex.def)             Requested size: 11.74501pt x 11.74983pt.
 <icons/react-icon.pdf, id=46, 96.36pt x 96.36pt>
 File: icons/react-icon.pdf Graphic file (type pdf)
 <use icons/react-icon.pdf>
-Package pdftex.def Info: icons/react-icon.pdf  used on input line 124.
+Package pdftex.def Info: icons/react-icon.pdf  used on input line 126.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 <icons/Next.js.pdf, id=47, 96.36pt x 96.36pt>
 File: icons/Next.js.pdf Graphic file (type pdf)
 <use icons/Next.js.pdf>
-Package pdftex.def Info: icons/Next.js.pdf  used on input line 124.
+Package pdftex.def Info: icons/Next.js.pdf  used on input line 126.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 
-Overfull \hbox (66.04318pt too wide) in paragraph at lines 122--127
+Overfull \hbox (66.04318pt too wide) in paragraph at lines 124--129
 []  []
  []
 
 
-Overfull \hbox (21.01674pt too wide) in paragraph at lines 132--132
+Overfull \hbox (21.01674pt too wide) in paragraph at lines 134--134
 []|\T1/lmr/bx/n/12 Volunteering|  
  []
 
 
-Overfull \hbox (66.04318pt too wide) in paragraph at lines 130--134
+Overfull \hbox (66.04318pt too wide) in paragraph at lines 132--136
 []  [] 
  []
 
@@ -846,15 +846,15 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 14C180E6DF031E6D66743B38C0D31149;618.
  ) 
 Here is how much of TeX's memory you used:
- 24626 strings out of 474116
- 453127 string characters out of 5743683
- 1954187 words of memory out of 5000000
- 46548 multiletter control sequences out of 15000+600000
+ 24627 strings out of 474116
+ 453137 string characters out of 5743683
+ 1955187 words of memory out of 5000000
+ 46549 multiletter control sequences out of 15000+600000
  593366 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,12n,93p,598b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Resume.pdf (1 page, 179670 bytes).
+Output written on Resume.pdf (1 page, 180517 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  203 compressed objects within 3 object streams

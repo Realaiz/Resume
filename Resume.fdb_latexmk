@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1717724704.40868 "/Users/leo/Projects/TeXsume/Resume.tex" "Resume.pdf" "Resume" 1717724705.19645 0
-  "/Users/leo/Projects/TeXsume/Resume.tex" 1717724704.29387 6862 6e59d0b6e8b3d04f88ca79941640cb1f ""
+["pdflatex"] 1717724948.88608 "/Users/leo/Projects/TeXsume/Resume.tex" "Resume.pdf" "Resume" 1717724949.71012 0
+  "/Users/leo/Projects/TeXsume/Resume.tex" 1717724948.69198 7051 c3e9cccd49c9939323ee9644b3e104fc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -184,9 +184,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1717480232.46819 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1717480190 8221447 977e126ccd42343f837a49cd35a25441 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Resume.aux" 1717724705.10747 819 f0e6c14042e1429498ac5487cb3f27dc "pdflatex"
-  "Resume.out" 1717724705.1082 618 14c180e6df031e6d66743b38c0d31149 "pdflatex"
-  "Resume.tex" 1717724704.29387 6862 6e59d0b6e8b3d04f88ca79941640cb1f ""
+  "Resume.aux" 1717724949.61716 814 d563cca201238e65e2ef7932a3450aff "pdflatex"
+  "Resume.out" 1717724949.618 618 14c180e6df031e6d66743b38c0d31149 "pdflatex"
+  "Resume.tex" 1717724948.69198 7051 c3e9cccd49c9939323ee9644b3e104fc ""
   "icons/Next.js.pdf" 1717722051.24804 1229 ecc59fda6cff9b2da1accdb6e97501dd ""
   "icons/Pandas.pdf" 1717721920.52444 1284 d1989402609c7e5007be30f4648a2b83 ""
   "icons/Ploty.pdf" 1717721920.5208 4465 ee77b75d37d208d8d46e6bc619ee43c0 ""
