@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.4)  7 JUN 2024 11:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.4)  3 OCT 2024 11:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/leo/Projects/TeXsume/Resume.tex
-(/Users/leo/Projects/TeXsume/Resume.tex
+**/Users/leo/Projects/Resume/Resume.tex
+(/Users/leo/Projects/Resume/Resume.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -592,14 +592,14 @@ Package hyperref Info: Link coloring OFF on input line 40.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(35.2414pt, 543.81221pt, 35.2414pt)
-* v-part:(T,H,B)=(5.87357pt, 753.85503pt, 35.2414pt)
+* v-part:(T,H,B)=(9.39774pt, 750.33086pt, 35.2414pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=543.81221pt
-* \textheight=753.85503pt
+* \textheight=750.33086pt
 * \oddsidemargin=-37.0286pt
 * \evensidemargin=-37.0286pt
-* \topmargin=-103.39642pt
+* \topmargin=-99.87225pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -682,114 +682,122 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 61--62
  [][] 
  []
 
+<icons/SIG-icon.pdf, id=31, 1279.78125pt x 903.375pt>
+File: icons/SIG-icon.pdf Graphic file (type pdf)
+<use icons/SIG-icon.pdf>
+Package pdftex.def Info: icons/SIG-icon.pdf  used on input line 117.
+(pdftex.def)             Requested size: 81.56851pt x 57.57733pt.
 
-Overfull \hbox (6.83641pt too wide) in paragraph at lines 125--125
+Overfull \hbox (6.83641pt too wide) in paragraph at lines 128--128
 []|\T1/lmr/bx/n/12 Languages|  
  []
 
-<icons/python-icon.pdf, id=31, 48.18pt x 48.18pt>
+<icons/python-icon.pdf, id=32, 48.18pt x 48.18pt>
 File: icons/python-icon.pdf Graphic file (type pdf)
 <use icons/python-icon.pdf>
-Package pdftex.def Info: icons/python-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/python-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/r-icon.pdf, id=32, 385.44pt x 385.44pt>
+<icons/r-icon.pdf, id=33, 385.44pt x 385.44pt>
 File: icons/r-icon.pdf Graphic file (type pdf)
 <use icons/r-icon.pdf>
-Package pdftex.def Info: icons/r-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/r-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.74501pt x 11.74983pt.
-<icons/cpp-icon.pdf, id=33, 304.13625pt x 298.20035pt>
+<icons/cpp-icon.pdf, id=34, 304.13625pt x 298.20035pt>
 File: icons/cpp-icon.pdf Graphic file (type pdf)
 <use icons/cpp-icon.pdf>
-Package pdftex.def Info: icons/cpp-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/cpp-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.98238pt x 11.74983pt.
-<icons/w3_html5-icon.pdf, id=34, 48.18pt x 48.18pt>
+<icons/w3_html5-icon.pdf, id=35, 48.18pt x 48.18pt>
 File: icons/w3_html5-icon.pdf Graphic file (type pdf)
 <use icons/w3_html5-icon.pdf>
-Package pdftex.def Info: icons/w3_html5-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/w3_html5-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/w3_css-icon.pdf, id=35, 48.18pt x 48.18pt>
+<icons/w3_css-icon.pdf, id=36, 48.18pt x 48.18pt>
 File: icons/w3_css-icon.pdf Graphic file (type pdf)
 <use icons/w3_css-icon.pdf>
-Package pdftex.def Info: icons/w3_css-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/w3_css-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/js-icon.pdf, id=36, 385.44pt x 385.44pt>
+<icons/js-icon.pdf, id=37, 385.44pt x 385.44pt>
 File: icons/js-icon.pdf Graphic file (type pdf)
 <use icons/js-icon.pdf>
-Package pdftex.def Info: icons/js-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/js-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.74501pt x 11.74983pt.
-<icons/typescriptlang-icon.pdf, id=37, 48.18pt x 48.18pt>
+<icons/typescriptlang-icon.pdf, id=38, 48.18pt x 48.18pt>
 File: icons/typescriptlang-icon.pdf Graphic file (type pdf)
 <use icons/typescriptlang-icon.pdf>
-Package pdftex.def Info: icons/typescriptlang-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/typescriptlang-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/amazon_aws-icon.pdf, id=38, 48.18pt x 48.18pt>
+<icons/amazon_aws-icon.pdf, id=39, 48.18pt x 48.18pt>
 File: icons/amazon_aws-icon.pdf Graphic file (type pdf)
 <use icons/amazon_aws-icon.pdf>
-Package pdftex.def Info: icons/amazon_aws-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/amazon_aws-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/ruby-lang-icon.pdf, id=39, 48.18pt x 48.18pt>
+<icons/ruby-lang-icon.pdf, id=40, 48.18pt x 48.18pt>
 File: icons/ruby-lang-icon.pdf Graphic file (type pdf)
 <use icons/ruby-lang-icon.pdf>
-Package pdftex.def Info: icons/ruby-lang-icon.pdf  used on input line 125.
+Package pdftex.def Info: icons/ruby-lang-icon.pdf  used on input line 128.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/Pandas.pdf, id=40, 96.36pt x 96.36pt>
+<icons/Pandas.pdf, id=41, 96.36pt x 96.36pt>
 File: icons/Pandas.pdf Graphic file (type pdf)
 <use icons/Pandas.pdf>
-Package pdftex.def Info: icons/Pandas.pdf  used on input line 126.
+Package pdftex.def Info: icons/Pandas.pdf  used on input line 129.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/scikit-learn.pdf, id=41, 96.36pt x 96.36pt>
+<icons/scikit-learn.pdf, id=42, 96.36pt x 96.36pt>
 File: icons/scikit-learn.pdf Graphic file (type pdf)
 <use icons/scikit-learn.pdf>
-Package pdftex.def Info: icons/scikit-learn.pdf  used on input line 126.
+Package pdftex.def Info: icons/scikit-learn.pdf  used on input line 129.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/Ploty.pdf, id=42, 96.36pt x 96.36pt>
+<icons/Ploty.pdf, id=43, 96.36pt x 96.36pt>
 File: icons/Ploty.pdf Graphic file (type pdf)
 <use icons/Ploty.pdf>
-Package pdftex.def Info: icons/Ploty.pdf  used on input line 126.
+Package pdftex.def Info: icons/Ploty.pdf  used on input line 129.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/seaborn-icon.pdf, id=43, 192.72pt x 192.72pt>
+<icons/seaborn-icon.pdf, id=44, 192.72pt x 192.72pt>
 File: icons/seaborn-icon.pdf Graphic file (type pdf)
 <use icons/seaborn-icon.pdf>
-Package pdftex.def Info: icons/seaborn-icon.pdf  used on input line 126.
+Package pdftex.def Info: icons/seaborn-icon.pdf  used on input line 129.
 (pdftex.def)             Requested size: 11.74796pt x 11.74983pt.
-<icons/pytorch-icon.pdf, id=44, 48.18pt x 48.18pt>
+<icons/pytorch-icon.pdf, id=45, 48.18pt x 48.18pt>
 File: icons/pytorch-icon.pdf Graphic file (type pdf)
 <use icons/pytorch-icon.pdf>
-Package pdftex.def Info: icons/pytorch-icon.pdf  used on input line 126.
+Package pdftex.def Info: icons/pytorch-icon.pdf  used on input line 129.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/node-icon.pdf, id=45, 385.44pt x 385.44pt>
+<icons/node-icon.pdf, id=46, 385.44pt x 385.44pt>
 File: icons/node-icon.pdf Graphic file (type pdf)
 <use icons/node-icon.pdf>
-Package pdftex.def Info: icons/node-icon.pdf  used on input line 126.
+Package pdftex.def Info: icons/node-icon.pdf  used on input line 129.
 (pdftex.def)             Requested size: 11.74501pt x 11.74983pt.
-<icons/react-icon.pdf, id=46, 96.36pt x 96.36pt>
+<icons/react-icon.pdf, id=47, 96.36pt x 96.36pt>
 File: icons/react-icon.pdf Graphic file (type pdf)
 <use icons/react-icon.pdf>
-Package pdftex.def Info: icons/react-icon.pdf  used on input line 126.
+Package pdftex.def Info: icons/react-icon.pdf  used on input line 129.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
-<icons/Next.js.pdf, id=47, 96.36pt x 96.36pt>
+<icons/Next.js.pdf, id=48, 96.36pt x 96.36pt>
 File: icons/Next.js.pdf Graphic file (type pdf)
 <use icons/Next.js.pdf>
-Package pdftex.def Info: icons/Next.js.pdf  used on input line 126.
+Package pdftex.def Info: icons/Next.js.pdf  used on input line 129.
 (pdftex.def)             Requested size: 11.74942pt x 11.74983pt.
 
-Overfull \hbox (66.04318pt too wide) in paragraph at lines 124--129
+Overfull \hbox (66.04318pt too wide) in paragraph at lines 127--132
 []  []
  []
 
 
-Overfull \hbox (21.01674pt too wide) in paragraph at lines 134--134
+Overfull \hbox (21.01674pt too wide) in paragraph at lines 137--137
 []|\T1/lmr/bx/n/12 Volunteering|  
  []
 
 
-Overfull \hbox (66.04318pt too wide) in paragraph at lines 132--136
+Overfull \hbox (66.04318pt too wide) in paragraph at lines 135--139
 []  [] 
  []
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc} <./icons/python-icon.pdf> <./icons/r-icon.pdf
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc} <./icons/SIG-icon.pdf> <./icons/python-icon.pdf
+
+pdfTeX warning: pdflatex (file ./icons/python-icon.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./icons/r-icon.pdf
 
 pdfTeX warning: pdflatex (file ./icons/r-icon.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./icons/cpp-icon.pdf
@@ -843,21 +851,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `Resume.out' has not changed.
-(rerunfilecheck)             Checksum: 14C180E6DF031E6D66743B38C0D31149;618.
+(rerunfilecheck)             Checksum: 68DB7AAA3C31F5204B78AB89E5EB5DC0;586.
  ) 
 Here is how much of TeX's memory you used:
- 24627 strings out of 474116
- 453137 string characters out of 5743683
- 1955187 words of memory out of 5000000
- 46549 multiletter control sequences out of 15000+600000
+ 24638 strings out of 474116
+ 453432 string characters out of 5743683
+ 1953187 words of memory out of 5000000
+ 46560 multiletter control sequences out of 15000+600000
  593366 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,12n,93p,598b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,12n,93p,597b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Resume.pdf (1 page, 180517 bytes).
+Output written on Resume.pdf (1 page, 184160 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
+ 256 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
  7 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 

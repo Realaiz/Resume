@@ -1,8 +1,8 @@
-PWD /Users/leo/Projects/TeXsume
+PWD /Users/leo/Projects/Resume
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/leo/Projects/TeXsume/Resume.tex
+INPUT /Users/leo/Projects/Resume/Resume.tex
 OUTPUT Resume.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -327,6 +327,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
+INPUT ./icons/SIG-icon.pdf
+INPUT ./icons/SIG-icon.pdf
+INPUT ./icons/SIG-icon.pdf
+INPUT ./icons/SIG-icon.pdf
 INPUT ./icons/python-icon.pdf
 INPUT ./icons/python-icon.pdf
 INPUT ./icons/python-icon.pdf
